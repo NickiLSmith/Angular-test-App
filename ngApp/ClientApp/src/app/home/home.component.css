@@ -1,0 +1,17 @@
+body {
+}
+
+.center {
+    text-align:center;
+
+    
+}
+
+.qr {
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    padding: 10px;
+    left: 60%;
+    font-size: 10px;
+}
